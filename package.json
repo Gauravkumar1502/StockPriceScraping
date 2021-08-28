@@ -1,0 +1,14 @@
+{
+  "name": "stockpricescraping",
+  "version": "1.0.0",
+  "description": "Scripts for scraping stock price data from differnt sites",
+  "main": "getStockDataRediff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
